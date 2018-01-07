@@ -9,7 +9,7 @@ def create_data_folder():
         os.makedirs("data")
 
 
-def fetch_historical_data():
+def fetch_historical_bitcoin_data():
     current_date = datetime.now().date()
     url = ("https://api.coindesk.com/v1/bpi/historical/close.json?start=2013-09-01&end=%s" % current_date)
     user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
