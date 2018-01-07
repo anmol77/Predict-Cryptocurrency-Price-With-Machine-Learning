@@ -8,7 +8,7 @@ import os
 bitcoin_start_date = "2013-09-01"
 
 
-def get_date_from_current():
+def get_date_from_current(offset):
     return datetime.now().date() - timedelta(days=offset)
 
 
