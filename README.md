@@ -10,6 +10,6 @@ jupyter notebook
 ```
 
 ### Update submodules ###
-````sh
+```sh
 git submodule update --recursive
 ```
