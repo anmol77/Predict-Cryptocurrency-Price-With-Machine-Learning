@@ -1,0 +1,3 @@
+[submodule "CryptoAI-CoinMarketCapHistoricalDataScraper"]
+	path = CryptoAI-CoinMarketCapHistoricalDataScraper
+	url = https://github.com/OscarAlsingCommunity/CryptoAI-CoinMarketCapHistoricalDataScraper.git
