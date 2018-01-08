@@ -1,8 +1,11 @@
 # Predict-Cryptocurrency-Price-With-Machine-Learning #
 
 ### Run the program ###
-```python
+```sh
 git submodule update --init --recursive
+```
+
+```python
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
