@@ -16,3 +16,8 @@ jupyter notebook
 ```sh
 git submodule update --recursive
 ```
+
+### Resources & Further Reading ###
+- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- https://github.com/NourozR/Stock-Price-Prediction-LSTM
+- https://www.kaggle.com/pablocastilla/predict-stock-prices-with-lstm/
