@@ -2,7 +2,7 @@
 
 ### Run the program ###
 ```sh
-git submodule update --init --recursive
+git submodule update --init --recursive --remote
 ```
 
 ```python
@@ -14,7 +14,7 @@ jupyter notebook
 
 ### Update submodules ###
 ```sh
-git submodule update --recursive
+git submodule update --recursive --remote
 ```
 
 ### Resources & Further Reading ###
